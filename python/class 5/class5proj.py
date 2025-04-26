@@ -1,8 +1,15 @@
-num = int(input("Enter a number: "))
-x = 0
+task = []
 
-while num > 0:
-    num = int(num / 10 )
-    x =+ 1
+def addTask(taskName):
+    task.append(taskName)
 
-print(f"The number of digits in the number is: {x}")
+for i in range(5):
+    taskName = input("Enter task name : ")
+    task.append(taskName)
+
+print(task)
+
+taskName = input("Enter task name to remove : ")
+
+task.remove(taskName)
+print(task)
