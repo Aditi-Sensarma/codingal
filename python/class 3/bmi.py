@@ -12,3 +12,5 @@ elif BMI > 30.0 and BMI <39.9 :
     print("Obese")
 else :
     print("Morbidly obese")
+
+    

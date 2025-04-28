@@ -10,11 +10,3 @@ elif num >10 and num<20 :
     print("It is between 10 and 20")
 else : 
     print("Greater than 20")
-
-import calendar
-year = int(input("Enter a year whose calendar you need : "))
-
-print(calendar.calendar(year))
-
-import datetime
-print(datetime.datetime.now())

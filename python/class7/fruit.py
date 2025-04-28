@@ -11,6 +11,6 @@ fruits.append(y)
 
 print(fruits)
 
-fruits.pop
-fruits.pop
+fruits.pop()
+fruits.pop()
 print(fruits)
