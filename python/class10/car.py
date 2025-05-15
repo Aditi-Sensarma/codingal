@@ -29,3 +29,24 @@ Tesla.stop()
 BMW.model=input("Enter the model of the BMW")
 BMW.display_info()
 
+
+
+
+class Human:
+    def __init__(self, xValue, nameValue):
+        self.x = xValue
+        self.name = nameValue
+        print("constructor")
+
+    def eat(self):
+        print("human is eating")
+
+
+
+akash = Human(10, "akr")  
+ritika = Human(20, "ritika bhaumik") 
+
+print(akash.x)
+print(ritika.x)
+print(akash.name)
+print(ritika.name)
