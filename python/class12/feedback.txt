@@ -1,0 +1,10 @@
+{'name': '& "C:/Users/Aditi Sensarma/AppData/Local/Programs/Python/Python314/python.exe" "c:/Users/Aditi Sensarma/OneDrive/Desktop/codingal/python/class12/calling.py"', 'feedback': 'aditi', 'rating': 'ok'}{'name': 'Aditi Sensarma', 'feedback': 'Good', 'rating': '5'}{'name': 'Ayushi', 'feedback': '2', 'rating': '3'}{'name': 'aditi sensarma', 'feedback': 'oaek', 'rating': '3'}
+{'name': 'ayushi', 'feedback': 'okae', 'rating': '208'}
+{'name': 'a', 'feedback': 'ok', 'rating': '2'}
+{'name': 'Aditi', 'feedback': 'Okay', 'rating': '8'}
+{'name': 'Ayushi', 'feedback': '9', 'rating': 'A'}
+{'name': 'adti', 'feedback': '9', 'rating': 'ok'}
+{'name': 'aditi', 'feedback': 'ok', 'rating': 'ok'}
+{'name': 'OK', 'feedback': 'OK', 'rating': 'OK'}
+{'name': 'OK', 'feedback': 'OK', 'rating': 'OK'}
+{'name': 'aDITI', 'feedback': 'OK', 'rating': 'OK'}
